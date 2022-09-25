@@ -30,6 +30,7 @@ body {
 .container .wrapper h1 {
     margin: 0px;
     padding: 0px;
+    margin-top: 12px;
 }
 
 .container .wrapper h3 {
@@ -37,3 +38,24 @@ body {
     padding: 0px;
     font-weight: 500;
 }
+
+.socials {
+    display: flex;
+    align-items: center;
+}
+
+.icon {
+    height: 45px;
+    width: 45px;
+    background-color: #b1b1b1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 5px;
+}
+
+.icon .fb {}
+
+.icon .twitter {}
+
+.icon .instagram {}
