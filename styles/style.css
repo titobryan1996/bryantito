@@ -15,16 +15,11 @@ body {
     align-items: center;
     justify-content: center;
 }
-
-.container .wrapper {
-    
-}
-
 .container .wrapper .image {
     height: 90px;
     width: 90px;
     border-radius: 100px;
-    background-color: #b1b1b1;
+    background-color: #4a77d1;
 }
 
 .container .wrapper h1 {
@@ -36,7 +31,7 @@ body {
 .container .wrapper h3 {
     margin: 0px;
     padding: 0px;
-    font-weight: 500;
+    font-weight: 1000;
 }
 
 .socials {
@@ -53,9 +48,3 @@ body {
     justify-content: center;
     margin-left: 5px;
 }
-
-.icon .fb {}
-
-.icon .twitter {}
-
-.icon .instagram {}
