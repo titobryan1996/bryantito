@@ -15,17 +15,23 @@ body {
     align-items: center;
     justify-content: center;
 }
-.container .wrapper .image {
-    height: 90px;
-    width: 90px;
+.image {
+    height: 100px;
+    width: 100px;
     border-radius: 100px;
     background-color: #4a77d1;
+    overflow: hidden;
 }
 
-.container .wrapper h1 {
+img {
+    width: 100%;
+}
+
+.wrapper h1 {
     margin: 0px;
     padding: 0px;
     margin-top: 12px;
+    color: black;
 }
 
 .container .wrapper h3 {
