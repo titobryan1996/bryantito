@@ -78,3 +78,11 @@ img {
     width: 80px;
     height: 40px;
 }
+
+.nav{
+    font-size: 16px;
+}
+
+.nav a{
+    color: red;
+}
