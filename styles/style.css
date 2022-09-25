@@ -44,6 +44,8 @@ img {
     padding: 0px;
     font-weight: 1000;
     font-size: larger;
+    color: black;
+
 }
 .socials {
     margin-top: 18px;
@@ -81,4 +83,9 @@ img {
 
 .nav{
     font-size: 16px;
+}
+
+{
+.tenor-gif-embed
+    width: 80px;
 }
